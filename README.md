@@ -14,5 +14,6 @@ La API de Usuarios permite gestionar usuarios en el sistema, proporcionando func
 1. **Clona el repositorio**:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Chimichami/API-USUARIOS.git
    cd api-usuarios
+
